@@ -1,5 +1,5 @@
 # This is a config for E2B sandbox template.
-# You can use 'template_id' (7qqypzcji6u1zmwpowzc) or 'template_name (gitwit-php) from this config to spawn a sandbox:
+# You can use 'template_id' (94b4e9dnn39lhlsf9bsu) or 'template_name (gitwit-php) from this config to spawn a sandbox:
 
 # Python SDK
 # from e2b import Sandbox
@@ -9,7 +9,7 @@
 # import { Sandbox } from 'e2b'
 # const sandbox = await Sandbox.create({ template: 'gitwit-php' })
 
-team_id = "6080eb88-ff65-40a8-b550-10491e269b99"
+team_id = "34eab90a-97dc-4be5-87e3-a17b6e6e8bc6"
 dockerfile = "e2b.Dockerfile"
 template_name = "gitwit-php"
-template_id = "7qqypzcji6u1zmwpowzc"
+template_id = "94b4e9dnn39lhlsf9bsu"
